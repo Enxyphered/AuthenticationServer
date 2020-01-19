@@ -1,0 +1,9 @@
+//AuthDetails
+{
+  "EgatewayUrl": "https://SIMP18SVR:443/EGateway/EGateway.asmx",
+  "Username": "superuser",
+  "EncyptedPassword": "OraS1m$1",
+  "Organization": "",
+  "ServiceHostId": 1,
+  "WorkstationServiceId": 21
+}
