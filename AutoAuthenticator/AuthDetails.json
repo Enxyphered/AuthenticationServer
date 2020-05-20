@@ -2,7 +2,7 @@
 {
   "EgatewayUrl": "https://SIMP18SVR:443/EGateway/EGateway.asmx",
   "Username": "superuser",
-  "EncyptedPassword": "OraS1m$1",
+  "EncyptedPassword": "",
   "Organization": "",
   "ServiceHostId": 1,
   "WorkstationServiceId": 21
